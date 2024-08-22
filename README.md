@@ -52,7 +52,7 @@ Ensure that you have the following installed:
     npm start
 2. **Access the application**
       
-      - [Prerequisites]
-      - [Installation]
-      - -[Getting Started]
-      
+      - [Visit http://localhost:5000/ to see the main page.]
+      - [Use the API endpoints as described below.]
+
+## API Documentation
