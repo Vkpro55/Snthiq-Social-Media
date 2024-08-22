@@ -56,5 +56,5 @@ Ensure that you have the following installed:
 
 ## API Documentation
 ### Endpoints
-   ## - [GET /api/social-stats]
-   ## - [GET /api/platform/:platform]
+   ### - GET /api/social-stats
+   ### - GET /api/platform/:platform
