@@ -51,6 +51,7 @@ Ensure that you have the following installed:
     ```bash
     npm start
 2. **Access the application**
+   
   -[Getting Started]
      - [Prerequisites]
      - [Installation]
