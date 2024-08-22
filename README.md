@@ -1,7 +1,7 @@
 https://gleaming-cherry-quiet.glitch.me/
 
 
-Social Media Aggregation API
+#Social Media Aggregation API
 This project is a simple Node.js application that aggregates social media statistics from multiple platforms. It provides endpoints to fetch aggregated stats or detailed stats for specific platforms like Twitter and Instagram.
 
 Table of Contents
@@ -18,13 +18,6 @@ Assumptions and Design Decisions
 Testing
 Rate Limiting
 License
-Getting Started
-Prerequisites
-Ensure that you have the following installed:
-
-Node.js (v14.x or later)
-npm (v6.x or later)
-Installation
 Clone the repository:
 
 bash
