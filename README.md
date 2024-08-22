@@ -12,7 +12,6 @@ This project is a simple Node.js application that aggregates social media statis
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [API Documentation](#api-documentation)
-  - [Base URL](#base-url)
   - [Endpoints](#endpoints)
     - [GET /api/social-stats](#get-apisocial-stats)
     - [GET /api/platform/:platform](#get-apiplatformplatform)
@@ -56,3 +55,4 @@ Ensure that you have the following installed:
       - [Use the API endpoints as described below.]
 
 ## API Documentation
+### Endpoints
