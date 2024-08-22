@@ -83,29 +83,7 @@ Ensure that you have the following installed:
    ### - GET /api/platform/:platform
    1. **Clone the repository:**
       ```bash
-     git clone https://github.com/your-username/social-media-agg.git
-     cd social-media-agg
-
-2.  **Install dependencies**
-       ```bash
-      npm install
-
-
-
-
-
-
-
-
-
-
-
-   
-    Fetches detailed statistics for a specific platform.
-    Response Format
-
-  
-    [
+        [
      {
     "userId": 1,
     "id": 1,
@@ -113,3 +91,9 @@ Ensure that you have the following installed:
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     ]
+
+
+2.  **Install dependencies**
+       ```bash
+      npm install
+
