@@ -105,3 +105,5 @@ Ensure that you have the following installed:
         }
        ]
 ## Testing      
+  ```bash
+    npm run test
