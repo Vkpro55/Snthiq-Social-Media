@@ -56,3 +56,5 @@ Ensure that you have the following installed:
 
 ## API Documentation
 ### Endpoints
+   -[GET /api/social-stats]
+   -[Fetches aggregated statistics from supported social media platforms.]
