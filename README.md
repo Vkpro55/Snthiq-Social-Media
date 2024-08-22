@@ -105,7 +105,6 @@ Ensure that you have the following installed:
         }
        ]
 ## Testing      
-    ```bash
      npm run test
 ## Rate Limiting
   Rate limiting is applied to prevent abuse of the API endpoints. Each IP address is allowed up to 10 requests per minute. Exceeding this limit will result in a 429 Too Many Requests error.
