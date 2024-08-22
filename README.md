@@ -47,3 +47,11 @@ Ensure that you have the following installed:
    CACHE_DURATION=300000
 
 ### Running the Application    
+1. **Start the server**
+    ```bash
+    npm start
+2. **Access the application**
+  -[Getting Started]
+     - [Prerequisites]
+     - [Installation]
+      
