@@ -17,7 +17,6 @@ This project is a simple Node.js application that aggregates social media statis
     - [GET /api/platform/:platform](#get-apiplatformplatform)
 - [Testing](#testing)
 - [Rate Limiting](#rate-limiting)
-- [License](#license)
 
 ## Getting Started
 
