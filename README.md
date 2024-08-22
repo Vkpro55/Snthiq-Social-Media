@@ -53,6 +53,6 @@ Ensure that you have the following installed:
 2. **Access the application**
    
   -[Getting Started]
-     - [Prerequisites]
-     - [Installation]
+      - [Prerequisites]
+      - [Installation]
       
