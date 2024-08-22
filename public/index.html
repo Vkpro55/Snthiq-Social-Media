@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Aggregation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px 15px;
+            text-decoration: none;
+            color: #fff;
+            background-color: #007BFF;
+            border-radius: 5px;
+        }
+
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Social Media Aggregation</h1>
+        <a id="social-stats-link">Social stats</a>
+        <h2>Platform</h2>
+        <a id="twitter-link">Twitter</a>
+        <a id="instagram-link">Instagram</a>
+    </div>
+    <script>
+        // Determine the base URL
+        const baseURL = window.location.origin; // This gets the base URL of the current page
+
+        // Update the links dynamically
+        document.getElementById('social-stats-link').href = `${baseURL}/api/social-stats`;
+        document.getElementById('twitter-link').href = `${baseURL}/api/platform/twitter`;
+        document.getElementById('instagram-link').href = `${baseURL}/api/platform/instagram`;
+    </script>
+</body>
+
+</html>
