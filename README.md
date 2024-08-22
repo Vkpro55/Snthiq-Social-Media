@@ -85,13 +85,13 @@ Ensure that you have the following installed:
       For twitter: /api/platform/twitter
       ```bash
         [
-       {
+         {
          "userId": ..
          "id": ..
          "title": ..
          "body": ..
-       },
-      ]
+        }
+       ]
 
 
 3.  **Install dependencies**
