@@ -42,7 +42,6 @@ Ensure that you have the following installed:
      ```bash
       npm install
 3. **Set up environment variables**
-     Create the .env file 
     ```bash
     PORT=5000
    CACHE_DURATION=300000
