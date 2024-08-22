@@ -92,9 +92,16 @@ Ensure that you have the following installed:
          "body": ..
         }
        ]
-
-
+      
 3.  **Install dependencies**
-       ```bash
-      npm install
-
+       For instagram: /api/platform/instagram
+      ```bash
+        [
+         {
+          "albumId": ..
+          "id": ..
+          "title": ..
+          "url": ..
+          "thumbnailUrl": ..
+        }
+       ]
