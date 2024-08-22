@@ -82,6 +82,7 @@ Ensure that you have the following installed:
        }
    ### - GET /api/platform/:platform
    1. **Clone the repository:**
+      For twitter: /api/platform/twitter
       ```bash
         [
        {
@@ -93,7 +94,7 @@ Ensure that you have the following installed:
       ]
 
 
-2.  **Install dependencies**
+3.  **Install dependencies**
        ```bash
       npm install
 
