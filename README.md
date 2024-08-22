@@ -58,6 +58,8 @@ Ensure that you have the following installed:
 ### Endpoints
    ### - GET /api/social-stats
        Fetches aggregated statistics from supported social media platforms.
+       Response Format
+       
        {
         "twitter": [
         {
@@ -80,7 +82,9 @@ Ensure that you have the following installed:
        }
    ### - GET /api/platform/:platform
     Fetches detailed statistics for a specific platform.
-    ```bash
+    Response Format
+
+  
     [
      {
     "userId": 1,
