@@ -58,4 +58,24 @@ Ensure that you have the following installed:
 ### Endpoints
    ### - GET /api/social-stats
        Fetches aggregated statistics from supported social media platforms.
+       {
+        "twitter": [
+        {
+         "userId": ..
+         "id": ..
+         "title": ..
+         "body": ..
+        }
+        ],
+
+         "instagram": [
+        {
+          "albumId": ..
+          "id": ..
+          "title": ..
+          "url": ..
+          "thumbnailUrl": ..
+        }
+        ]
+       }
    ### - GET /api/platform/:platform
