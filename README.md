@@ -15,7 +15,6 @@ This project is a simple Node.js application that aggregates social media statis
   - [Endpoints](#endpoints)
     - [GET /api/social-stats](#get-apisocial-stats)
     - [GET /api/platform/:platform](#get-apiplatformplatform)
-- [Assumptions and Design Decisions](#assumptions-and-design-decisions)
 - [Testing](#testing)
 - [Rate Limiting](#rate-limiting)
 - [License](#license)
@@ -105,3 +104,4 @@ Ensure that you have the following installed:
           "thumbnailUrl": ..
         }
        ]
+## Testing      
