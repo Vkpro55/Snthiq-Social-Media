@@ -37,3 +37,7 @@ Ensure that you have the following installed:
    ```bash
    git clone https://github.com/your-username/social-media-agg.git
    cd social-media-agg
+
+2.  **Install dependencies**
+     ```bash
+npm install
